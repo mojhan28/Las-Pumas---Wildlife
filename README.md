@@ -16,7 +16,7 @@ List of deliverables for 4 different projects: <br>
 **1. Brochure:** <br>
 - A brochure to promote the new Wild Path tour <br>
 
-**2. Influencers:** <br>
+**2. Influencer outreach:** <br>
 - A list of nano and micro-influencers we have contacted <br>
 
 **3. Instagram content creation:** <br>
