@@ -10,14 +10,14 @@ Esther Pomareda García, head biologist at Centro de Rescate y Santuario Las Pum
 Provide communications, marketing and digital infrastructure services to the client in order to increase public awareness and revenue generation.
 As such, the deliverables are largely focused on donor engagement, digital outreach, and the circulation of educational content. 
 
-##Deliverables
-4 different projects:
-**1. Brochure:**
-    - A brochure to promote the new Wild Path tour
-**2. Influencers:**
-    - A list of nano and micro-influencers we have contacted
-**3. Instagram content creation:**
-    - 
-**4. Newsletter:**
-    - A seasonal newsletter template
-    - Newsletter #1 for January-June
+## Deliverables <br>
+4 different projects: <br>
+**1. Brochure:** <br>
+    - A brochure to promote the new Wild Path tour <br>
+**2. Influencers:** <br>
+    - A list of nano and micro-influencers we have contacted <br>
+**3. Instagram content creation:** <br>
+    - <br>
+**4. Newsletter:** <br>
+    - A seasonal newsletter template <br>
+    - Newsletter #1 for January-June <br>
