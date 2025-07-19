@@ -23,5 +23,6 @@ List of deliverables for 4 different projects: <br>
 - <br>
 
 **4. Newsletter:** <br>
+- A ready-to-post Instagram story including an embedded link to a the newsletter subscription form
 - A seasonal newsletter template <br>
 - Newsletter #1 for January-June <br>
