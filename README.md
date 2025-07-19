@@ -11,13 +11,17 @@ Provide communications, marketing and digital infrastructure services to the cli
 As such, the deliverables are largely focused on donor engagement, digital outreach, and the circulation of educational content. 
 
 ## Deliverables <br>
-4 different projects: <br>
+List of deliverables for 4 different projects: <br>
+
 **1. Brochure:** <br>
-    - A brochure to promote the new Wild Path tour <br>
+- A brochure to promote the new Wild Path tour <br>
+
 **2. Influencers:** <br>
-    - A list of nano and micro-influencers we have contacted <br>
+- A list of nano and micro-influencers we have contacted <br>
+
 **3. Instagram content creation:** <br>
-    - <br>
+- <br>
+
 **4. Newsletter:** <br>
-    - A seasonal newsletter template <br>
-    - Newsletter #1 for January-June <br>
+- A seasonal newsletter template <br>
+- Newsletter #1 for January-June <br>
